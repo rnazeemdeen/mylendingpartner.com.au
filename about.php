@@ -15,7 +15,7 @@ include __DIR__ . '/includes/header.php';
 
 <section class="section">
   <div class="wrap split split--top">
-    <div class="portrait">Portrait of Afkar &ndash; 4:5, professional, warm lighting.</div>
+    <img class="portrait" src="assets/afkar-about.jpg" alt="Afkar Mumthas, mortgage and finance broker" width="1200" height="1500">
     <div class="prose">
       <p class="lede">I came into mortgage broking from a background in a top-tier financial institution, with a deep-seated reason for the move: a genuine interest in guiding people toward financial empowerment, rather than simply processing their applications.</p>
       <p>Most people make a handful of major borrowing decisions across an entire lifetime. They do it with incomplete information, under time pressure, and usually with advice from someone whose interests aren't quite aligned with theirs. That struck me as a problem worth working on.</p>

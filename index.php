@@ -57,7 +57,7 @@ include __DIR__ . '/includes/header.php';
 
 <section class="section">
   <div class="wrap split">
-    <div class="portrait">Portrait of Afkar goes here &ndash; 4:5, professional, warm lighting. This is the highest-impact image on the site.</div>
+    <img class="portrait" src="assets/afkar-home.jpg" alt="Afkar Mumthas, mortgage and finance broker" width="1200" height="1500" loading="lazy" decoding="async">
     <div>
       <p class="eyebrow">About Afkar</p>
       <h2>Trained in the numbers. Experienced inside the bank.</h2>

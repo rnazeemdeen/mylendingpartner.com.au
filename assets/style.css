@@ -141,6 +141,7 @@ input[type=range]::-moz-range-thumb{width:20px;height:20px;border-radius:50%;bac
 .split{display:grid;grid-template-columns:1fr 1fr;gap:clamp(34px,5vw,68px);align-items:center}
 .split--top{align-items:start}
 .portrait{aspect-ratio:4/5;background:var(--navy-soft);border-bottom:4px solid var(--brass);display:flex;align-items:center;justify-content:center;color:rgba(255,255,255,.4);font-size:.85rem;text-align:center;padding:2rem;line-height:1.6}
+img.portrait{display:block;width:100%;height:auto;padding:0;object-fit:cover}
 .checks{list-style:none;padding:0;margin:1.5rem 0 2rem}
 .checks li{padding-left:2rem;margin-bottom:1.05rem;position:relative;font-size:1rem}
 .checks li::before{content:"";position:absolute;left:0;top:.55em;width:11px;height:6px;border-left:2px solid var(--brass);border-bottom:2px solid var(--brass);transform:rotate(-45deg)}
