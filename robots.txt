@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /includes/
+Disallow: /contact-submit.php
+
+Sitemap: https://www.mylendingpartner.com.au/sitemap.xml
