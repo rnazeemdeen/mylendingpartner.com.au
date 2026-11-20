@@ -1,0 +1,13 @@
+# Secrets: lc-config.php lives one level above public_html on the server, never in the repo
+lc-config.php
+:home:*/
+
+# OS / server noise
+.DS_Store
+error_log
+*.zip
+.well-known/
+cgi-bin/
+
+# Local tooling
+.claude/

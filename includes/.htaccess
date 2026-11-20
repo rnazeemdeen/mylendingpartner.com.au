@@ -1,0 +1,2 @@
+# Partials are included by the pages, never requested directly
+Require all denied
