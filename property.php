@@ -1,5 +1,5 @@
 <?php
-$title = 'Property Finance | Afkar Mumthas, Lendd Finance';
+$title = 'Property Finance | Afkar Mumthas, My Lending Partner';
 $description = 'Home loans, first home buyer loans, construction, investment, refinancing, low deposit, self-employed and equity release. Access to 80+ lenders.';
 $active = 'property';
 include __DIR__ . '/includes/header.php';
@@ -91,7 +91,7 @@ include __DIR__ . '/includes/header.php';
   <div class="wrap langband__in">
     <div>
       <h2>Prefer Sinhala or Tamil?</h2>
-      <p>Just say so when you book. A home loan is the largest commitment most people ever make, and it's worth having that conversation in the language you think in.</p>
+      <p>Just say so when you book. A home loan is the largest commitment most people ever make, and it's worth having that conversation in the language you think in. Loan documents are in English, but we can talk them through in whichever language suits.</p>
     </div>
     <div class="langband__scripts scr">
       &#3523;&#3538;&#3458;&#3524;&#3517;&#3545;&#3505;&#3530; &#3482;&#3501;&#3535; &#3482;&#3515;&#3512;&#3540;<br>

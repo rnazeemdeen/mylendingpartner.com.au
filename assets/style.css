@@ -321,3 +321,8 @@ input[type=range]::-moz-range-thumb{width:20px;height:20px;border-radius:50%;bac
   .tbl td{border:0;padding:.3rem 0}
   .tbl td::before{content:attr(data-l);display:block;font-size:.78rem;font-weight:700;color:var(--brass)}
 }
+
+/* Floating WhatsApp button */
+.wa{position:fixed;right:max(18px,env(safe-area-inset-right));bottom:max(18px,env(safe-area-inset-bottom));z-index:70;display:flex;align-items:center;justify-content:center;width:56px;height:56px;border-radius:50%;background:#25D366;color:#fff;box-shadow:0 6px 18px rgba(7,19,34,.28);transition:transform .18s ease}
+.wa:hover{transform:scale(1.06)}
+.wa svg{width:30px;height:30px;fill:currentColor}

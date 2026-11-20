@@ -30,6 +30,7 @@ include __DIR__ . '/includes/header.php';
       <p>First home buyers, investors, and owner-occupiers refinancing or upgrading. Increasingly, self-employed borrowers and people with income structures that don't fit a standard payslip &ndash; which is where the accounting training earns its keep.</p>
       <h2>Three languages</h2>
       <p>I speak English, Sinhala and Tamil. This matters more than it might sound. Financial vocabulary is precisely where second-language confidence breaks down &ndash; someone can be entirely fluent day to day and still be unsure what "offset," "serviceability buffer" or "cross-collateralisation" means for them specifically.</p>
+      <p>Our conversations can be in any of the three. Loan documents and applications are in English, so I'll make sure you understand what you're signing.</p>
       <p>It also matters because you're often not the only decision-maker. Parents and extended family are frequently part of the conversation, and being able to bring them into it properly is regularly what makes the difference.</p>
       <h2>Beyond finance</h2>
       <p>Cricket, motorsport, and whatever course I've most recently talked myself into. The upskilling habit is not unrelated to the job &ndash; lender policy changes constantly, and staying current is most of what separates useful advice from confident guesswork.</p>
@@ -58,7 +59,7 @@ include __DIR__ . '/includes/header.php';
   <div class="wrap langband__in">
     <div>
       <h2>Prefer Sinhala or Tamil?</h2>
-      <p>Just say so when you book. A home loan is the largest commitment most people ever make, and it's worth having that conversation in the language you think in.</p>
+      <p>Just say so when you book. A home loan is the largest commitment most people ever make, and it's worth having that conversation in the language you think in. Loan documents are in English, but we can talk them through in whichever language suits.</p>
     </div>
     <div class="langband__scripts scr">
       &#3523;&#3538;&#3458;&#3524;&#3517;&#3545;&#3505;&#3530; &#3482;&#3501;&#3535; &#3482;&#3515;&#3512;&#3540;<br>

@@ -1,5 +1,5 @@
 <?php
-$title = 'Afkar Mumthas | Lendd Finance &ndash; Mortgage &amp; Finance Broker';
+$title = 'Afkar Mumthas | My Lending Partner &ndash; Mortgage &amp; Finance Broker';
 $description = 'Mortgage and finance broker with access to 80+ lenders. First home buyers, investors and refinancing, explained in plain English. English, Sinhala and Tamil.';
 $active = '';
 include __DIR__ . '/includes/header.php';
@@ -17,6 +17,7 @@ include __DIR__ . '/includes/header.php';
       </div>
       <div class="hero__creds">
         <span><b>80+</b> lenders through AFG</span>
+        <span><b>FBAA</b> member</span>
         <span><b>Cert IV</b> Mortgage &amp; Finance</span>
         <span><b>B. International Business</b>, Monash</span>
         <span class="scr"><b>English &middot; &#3523;&#3538;&#3458;&#3524;&#3517; &middot; &#2980;&#2990;&#3007;&#2996;&#3021;</b></span>
@@ -199,7 +200,7 @@ include __DIR__ . '/includes/header.php';
   <div class="wrap langband__in">
     <div>
       <h2>Prefer Sinhala or Tamil?</h2>
-      <p>Just say so when you book. A home loan is the largest commitment most people ever make, and it's worth having that conversation in the language you think in.</p>
+      <p>Just say so when you book. A home loan is the largest commitment most people ever make, and it's worth having that conversation in the language you think in. Loan documents are in English, but we can talk them through in whichever language suits.</p>
     </div>
     <div class="langband__scripts scr">
       &#3523;&#3538;&#3458;&#3524;&#3517;&#3545;&#3505;&#3530; &#3482;&#3501;&#3535; &#3482;&#3515;&#3512;&#3540;<br>
@@ -298,6 +299,7 @@ include __DIR__ . '/includes/header.php';
     <div class="head head--mid" style="margin-top:clamp(46px,6vw,72px);margin-bottom:0">
       <h3 style="font-size:1.12rem">Access to more than 80 lenders and partners</h3>
       <p style="font-size:.95rem;margin-top:.8rem">Major banks, non-banks and specialist providers, through the AFG lender panel &ndash; spanning residential, commercial, asset and personal finance.</p>
+      <p style="font-size:.83rem;margin-top:.8rem;color:#7A889A">A broker must be accredited with a lender to submit applications, and I'm not accredited with every lender on the AFG panel. Where I'm not, I can refer you to an AFG broker who is. See the <a href="credit-guide">Credit Guide</a>.</p>
     </div>
     <ul class="lenders" id="lenders" aria-label="AFG lenders and partners">
         <li><img src="assets/lenders/afg-commercial.png" alt="AFG Commercial" width="500" height="250" loading="lazy" decoding="async"></li>

@@ -19,41 +19,26 @@ include __DIR__ . '/includes/header.php';
 <p class="lede">Stamp duty &ndash; also called transfer duty or conveyance duty &ndash; is usually the biggest single upfront cost of buying a home after the deposit. For first home buyers, it's also where the most significant relief is available.</p>
 <p>Every state and territory administers its own duty and its own concessions. The differences are substantial.</p>
 
-<h2>Current thresholds by state</h2>
+<h2>Your state revenue office</h2>
+<p>Thresholds and eligibility rules change with each state budget, so the most reliable source is the revenue office for the state you're buying in. For general reference:</p>
 
 <table class="tbl">
   <thead>
-    <tr><th>State</th><th>First home buyer position</th></tr>
+    <tr><th>State</th><th>Revenue office</th></tr>
   </thead>
   <tbody>
-    <tr>
-      <td data-l="State"><b>ACT</b></td>
-      <td data-l="Position">From 1 July 2026, the property price cap and income threshold were removed from the Home Buyer Concession Scheme. Eligible buyers receive a full duty exemption regardless of property value. Buyers must not have owned property in the previous five years.</td>
-    </tr>
-    <tr>
-      <td data-l="State"><b>WA</b></td>
-      <td data-l="Position">From 7 May 2026, no duty on eligible homes up to $600,000, with concessional rates to $800,000. Vacant land: full exemption to $450,000, concessions to $550,000.</td>
-    </tr>
-    <tr>
-      <td data-l="State"><b>VIC</b></td>
-      <td data-l="Position">No duty for eligible first home buyers up to $600,000, with a concession applying between $600,001 and $750,000.</td>
-    </tr>
-    <tr>
-      <td data-l="State"><b>NSW</b></td>
-      <td data-l="Position">The First Home Buyers Assistance Scheme provides exemptions and concessions subject to property value limits. <span class="todo" style="color:#8a6a2f;background:rgba(185,138,68,.16)">Confirm current thresholds with Revenue NSW before publishing.</span></td>
-    </tr>
-    <tr>
-      <td data-l="State"><b>SA, QLD, TAS, NT</b></td>
-      <td data-l="Position"><span class="todo" style="color:#8a6a2f;background:rgba(185,138,68,.16)">To complete &ndash; confirm current thresholds with each state revenue office before publishing.</span></td>
-    </tr>
+    <tr><td data-l="State"><b>NSW</b></td><td data-l="Revenue office"><a href="https://www.revenue.nsw.gov.au/taxes-duties-levies-royalties/transfer-duty" target="_blank" rel="noopener">Revenue NSW &ndash; transfer duty</a></td></tr>
+    <tr><td data-l="State"><b>VIC</b></td><td data-l="Revenue office"><a href="https://www.sro.vic.gov.au/buying-property/land-transfer-stamp-duty" target="_blank" rel="noopener">State Revenue Office Victoria &ndash; land transfer duty</a></td></tr>
+    <tr><td data-l="State"><b>QLD</b></td><td data-l="Revenue office"><a href="https://qro.qld.gov.au/duties/transfer-duty/concessions/homes/first-home/" target="_blank" rel="noopener">Queensland Revenue Office &ndash; first home concession</a></td></tr>
+    <tr><td data-l="State"><b>WA</b></td><td data-l="Revenue office"><a href="https://www.wa.gov.au/organisation/department-of-treasury-and-finance/transfer-duty" target="_blank" rel="noopener">RevenueWA &ndash; transfer duty</a></td></tr>
+    <tr><td data-l="State"><b>SA</b></td><td data-l="Revenue office"><a href="https://www.revenuesa.sa.gov.au/stampduty" target="_blank" rel="noopener">RevenueSA &ndash; stamp duty</a></td></tr>
+    <tr><td data-l="State"><b>TAS</b></td><td data-l="Revenue office"><a href="https://www.sro.tas.gov.au/property-transfer-duties" target="_blank" rel="noopener">State Revenue Office Tasmania &ndash; property transfer duty</a></td></tr>
+    <tr><td data-l="State"><b>ACT</b></td><td data-l="Revenue office"><a href="https://www.revenue.act.gov.au/home-buyer-assistance" target="_blank" rel="noopener">ACT Revenue Office &ndash; home buyer assistance</a></td></tr>
+    <tr><td data-l="State"><b>NT</b></td><td data-l="Revenue office"><a href="https://treasury.nt.gov.au/dtf/territory-revenue-office" target="_blank" rel="noopener">Territory Revenue Office</a></td></tr>
   </tbody>
 </table>
 
-<p style="font-size:.88rem;color:#7A889A">
-<b>Last reviewed: 12 September 2026.</b> Stamp duty rules differ in every state and change with each state budget, typically between March and June. Always confirm current thresholds with the relevant state revenue office before relying on them &ndash; or ask me and I'll check for your purchase.
-</p>
-
-<div class="note"><b>Build note:</b> this is the only page on the site carrying specific dollar figures, deliberately. Diarise a review each July after state budgets land, update the reviewed date, and link each row to its state revenue office. Verified rows above are ACT, WA and VIC; the remainder need confirming before this page goes live.</div>
+<p>Once your consultation is booked, I'll look properly into what you're eligible for in your state and how it affects the funds you need at settlement.</p>
 
 <h2>Why this matters more than the grant</h2>
 <p>For many first home buyers, a stamp duty exemption is worth considerably more than the first home owner grant &ndash; and unlike the grant, it usually applies to established homes as well as new ones.</p>

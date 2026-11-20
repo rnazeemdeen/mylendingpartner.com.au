@@ -1,6 +1,6 @@
 <?php
 $title = 'Islamic Home Finance | Shariah-Compliant Options';
-$description = 'Islamic home finance in Australia: co-ownership, leasing and cost-plus structures explained, with help comparing providers.';
+$description = 'Islamic finance in Australia through Hejaz: residential home finance and personal and business asset finance, with co-ownership, leasing and cost-plus structures explained.';
 $active = '';
 include __DIR__ . '/includes/header.php';
 ?>
@@ -9,14 +9,23 @@ include __DIR__ . '/includes/header.php';
   <div class="wrap">
     <p class="crumb"><a href="./">Home</a> <span style="opacity:.5">/</span> Islamic finance</p>
     <h1>A different approach to home finance.</h1>
-    <p>Islamic home finance generally avoids conventional interest and uses alternative structures. I can help you understand and compare the options available.</p>
+    <p>Islamic home finance generally avoids conventional interest and uses alternative structures. I'm accredited with Hejaz, and can help you understand how their finance works and whether it suits you.</p>
   </div>
 </section>
 
 <section class="section">
   <div class="wrap narrow prose">
     <p class="lede">Islamic home finance generally avoids conventional interest (riba) and instead uses structures based on concepts such as co-ownership, leasing or cost-plus transactions, depending on the provider and the product.</p>
-    <p>The exact structure, fees, ownership arrangements and Shariah considerations vary between providers. That variation is the reason this is worth talking through properly rather than comparing headline numbers.</p>
+    <p>The exact structure, fees, ownership arrangements and Shariah considerations vary between providers and products. That's the reason this is worth talking through properly rather than comparing headline numbers.</p>
+
+    <h2>Available through Hejaz</h2>
+    <p>Hejaz is the Islamic finance provider I'm accredited with. Through Hejaz I can help with:</p>
+    <ul>
+      <li><b>Residential home finance</b> &ndash; buying a home to live in</li>
+      <li><b>Personal asset finance</b> &ndash; such as a vehicle</li>
+      <li><b>Business asset finance</b> &ndash; vehicles and equipment for your business</li>
+    </ul>
+    <p>Eligibility, fees and terms are set by Hejaz and assessed on your circumstances.</p>
   </div>
 </section>
 
@@ -35,15 +44,13 @@ include __DIR__ . '/includes/header.php';
 <section class="section">
   <div class="wrap narrow prose">
     <h2 style="margin-top:0">Why work with a broker on this</h2>
-    <p>The Australian market for Shariah-compliant home finance is small. Most people researching it end up talking directly to a provider, which means comparing that provider's product against nothing.</p>
-    <p>What I can do is walk you through how the different structures actually work, what they cost in practice, how the ownership arrangement differs from a conventional mortgage, and what the eligibility requirements look like &ndash; so that whichever route you take, you've taken it deliberately.</p>
+    <p>The Australian market for Shariah-compliant finance is small, and the structures work quite differently from a conventional loan.</p>
+    <p>What I can do is walk you through how the structure actually works, what it costs in practice, how the ownership arrangement differs from a conventional mortgage, and what the eligibility requirements look like &ndash; so that whichever route you take, you've taken it deliberately.</p>
     <p>I can also compare the position honestly against conventional finance if you'd find that useful. Some clients want that comparison; some don't. Either is fine.</p>
 
     <h2>What I'm not</h2>
     <p>I'm a finance broker, not a religious authority. Whether a particular product is Shariah-compliant is determined by that provider's own Shariah board, and questions of religious obligation are properly a matter for your own guidance.</p>
     <p>What I can do is explain the mechanics clearly and help you access the options available.</p>
-
-    <div class="note"><span class="todo" style="color:#8a6a2f;background:rgba(185,138,68,.16)">Before publishing:</span> confirm which Shariah-compliant providers are accessible through the AFG panel and which Afkar is accredited to write. Publishing this page implies he can arrange these products. Also confirm whether AFG treats this as a specialist category with its own marketing requirements.</div>
   </div>
 </section>
 
@@ -51,7 +58,7 @@ include __DIR__ . '/includes/header.php';
   <div class="wrap langband__in">
     <div>
       <h2>Prefer Sinhala or Tamil?</h2>
-      <p>Just say so when you book. A home loan is the largest commitment most people ever make, and it's worth having that conversation in the language you think in.</p>
+      <p>Just say so when you book. A home loan is the largest commitment most people ever make, and it's worth having that conversation in the language you think in. Loan documents are in English, but we can talk them through in whichever language suits.</p>
     </div>
     <div class="langband__scripts scr">
       &#3523;&#3538;&#3458;&#3524;&#3517;&#3545;&#3505;&#3530; &#3482;&#3501;&#3535; &#3482;&#3515;&#3512;&#3540;<br>

@@ -53,7 +53,7 @@ include __DIR__ . '/includes/header.php';
         <p>It feels efficient at the time. The difficulty shows up when you want to sell one property or release equity.</p>
       </a>
     </div>
-    <div class="note"><span class="todo" style="color:#8a6a2f;background:rgba(185,138,68,.16)">Build note:</span> these are article stubs. Write them originally rather than republishing aggregator-syndicated content, which appears on hundreds of broker sites and creates duplicate-content problems. Two a month, each answering a real client question, will outperform any amount of homepage tweaking over twelve months.</div>
+    <!-- Build note: these are article stubs, waiting on Afkar's drafts. Write them originally rather than republishing aggregator-syndicated content (duplicate-content problems). -->
   </div>
 </section>
 

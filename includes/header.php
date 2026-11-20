@@ -49,6 +49,7 @@ $current = $pages ? basename($pages[0], '.php') : '';
   <div class="topbar__in">
     <div class="topbar__meta">
       <a href="tel:+61420661919">0420 661 919</a>
+      <a href="https://wa.me/61420661919">WhatsApp</a>
       <a href="mailto:afkar@lendd.com.au">afkar@lendd.com.au</a>
       <span class="topbar__lang scr">English &middot; &#3523;&#3538;&#3458;&#3524;&#3517; &middot; &#2980;&#2990;&#3007;&#2996;&#3021;</span>
     </div>
@@ -61,7 +62,7 @@ $current = $pages ? basename($pages[0], '.php') : '';
 <header class="header">
   <div class="header__in">
     <a class="logo" href="./">
-      <img src="assets/afk-finance-logo.png" alt="AFK Finance" width="81" height="48">
+      <img src="assets/afk-finance-logo.png" alt="My Lending Partner" width="81" height="48">
     </a>
     <button class="navtoggle" id="navtoggle" aria-expanded="false" aria-controls="nav">Menu</button>
     <nav class="nav" id="nav">

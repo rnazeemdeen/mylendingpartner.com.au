@@ -134,7 +134,7 @@ if ($t['code'] >= 300) {
 if ($stage === 2) {
     $note = "Website enquiry\n"
           . "Looking to: " . ($goal ?: '-') . "\n"
-          . "Where: " . ($state ?: '-') . "\n"
+          . "State: " . ($state ?: '-') . "\n"
           . "Deposit: " . ($deposit ?: '-') . "\n"
           . "Employment: " . ($employment ?: '-') . "\n"
           . "Preferred language: " . ($lang ?: '-') . "\n"

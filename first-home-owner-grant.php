@@ -32,6 +32,24 @@ include __DIR__ . '/includes/header.php';
 <p>Each state sets its own grant amount, its own property value cap, and its own definition of what qualifies as a new home. Some states have discontinued their grant entirely in favour of stamp duty relief. Others have raised caps recently.</p>
 <p>Because these are set at state budgets, they change regularly. Rather than publish figures here that may be out of date by the time you read them, we check the current position with the relevant state revenue office for your purchase.</p>
 
+<p>For general reference, each state's grant information is here:</p>
+<table class="tbl">
+  <thead>
+    <tr><th>State</th><th>Revenue office</th></tr>
+  </thead>
+  <tbody>
+    <tr><td data-l="State"><b>NSW</b></td><td data-l="Revenue office"><a href="https://www.revenue.nsw.gov.au/grants-schemes" target="_blank" rel="noopener">Revenue NSW &ndash; grants and schemes</a></td></tr>
+    <tr><td data-l="State"><b>VIC</b></td><td data-l="Revenue office"><a href="https://www.sro.vic.gov.au/buying-property/first-home-owner-grant" target="_blank" rel="noopener">State Revenue Office Victoria &ndash; First Home Owner Grant</a></td></tr>
+    <tr><td data-l="State"><b>QLD</b></td><td data-l="Revenue office"><a href="https://qro.qld.gov.au/property-concessions-grants/first-home-grant/" target="_blank" rel="noopener">Queensland Revenue Office &ndash; First Home Owner Grant</a></td></tr>
+    <tr><td data-l="State"><b>WA</b></td><td data-l="Revenue office"><a href="https://www.wa.gov.au/organisation/department-of-treasury-and-finance/first-home-owner-grant-fhog" target="_blank" rel="noopener">RevenueWA &ndash; First Home Owner Grant</a></td></tr>
+    <tr><td data-l="State"><b>SA</b></td><td data-l="Revenue office"><a href="https://www.revenuesa.sa.gov.au/grants-and-concessions/first-home-owners" target="_blank" rel="noopener">RevenueSA &ndash; first home owners</a></td></tr>
+    <tr><td data-l="State"><b>TAS</b></td><td data-l="Revenue office"><a href="https://www.sro.tas.gov.au/first-home-owner" target="_blank" rel="noopener">State Revenue Office Tasmania &ndash; first home owner</a></td></tr>
+    <tr><td data-l="State"><b>ACT</b></td><td data-l="Revenue office"><a href="https://www.revenue.act.gov.au/home-buyer-assistance" target="_blank" rel="noopener">ACT Revenue Office &ndash; home buyer assistance</a></td></tr>
+    <tr><td data-l="State"><b>NT</b></td><td data-l="Revenue office"><a href="https://treasury.nt.gov.au/dtf/territory-revenue-office" target="_blank" rel="noopener">Territory Revenue Office</a></td></tr>
+  </tbody>
+</table>
+<p>Once your consultation is booked, I'll look properly into what you're eligible for.</p>
+
 <h2>The grant is usually not your deposit</h2>
 <p>A practical point worth knowing: in most cases the grant is paid at or after settlement, not before. It generally can't be used as your deposit for the contract, though it may reduce the funds you need at settlement. Plan your cash flow accordingly.</p>
 

@@ -18,11 +18,12 @@ include __DIR__ . '/includes/header.php';
     <div>
       <p class="eyebrow">Get in touch</p>
       <h2>Start with a conversation.</h2>
-      <p style="margin:1.2rem 0 2rem;max-width:40ch">Fifteen minutes, no cost and no obligation. You'll know where you stand by the end of it.</p>
+      <p style="margin:1.2rem 0 2rem;max-width:40ch">Fifteen minutes, no cost and no obligation. You'll know where you stand by the end of it. The quickest way to book is a call &ndash; or send your details and I'll call you.</p>
       <dl class="cinfo">
         <dt>Mobile</dt><dd><a href="tel:+61420661919">0420 661 919</a></dd>
+        <dt>WhatsApp</dt><dd><a href="https://wa.me/61420661919">Message on WhatsApp</a></dd>
         <dt>Email</dt><dd><a href="mailto:afkar@lendd.com.au">afkar@lendd.com.au</a></dd>
-        <dt>Languages</dt><dd class="scr">English &middot; &#3523;&#3538;&#3458;&#3524;&#3517; &middot; &#2980;&#2990;&#3007;&#2996;&#3021;</dd>
+        <dt>Languages</dt><dd><span class="scr">English &middot; &#3523;&#3538;&#3458;&#3524;&#3517; &middot; &#2980;&#2990;&#3007;&#2996;&#3021;</span><br><span style="font-size:.88rem;color:rgba(255,255,255,.6)">Loan documents are in English</span></dd>
         <dt>Servicing</dt><dd>Australia-wide</dd>
         <dt>Hours</dt><dd>Mon&ndash;Fri 9:00am &ndash; 6:00pm<br>Evenings and weekends by appointment</dd>
       </dl>
@@ -48,12 +49,19 @@ include __DIR__ . '/includes/header.php';
           <div class="full">
             <label for="goal">What are you looking to do?</label>
             <select id="goal" name="goal">
-              <option>Buy my first home</option>
-              <option>Build my first home</option>
-              <option>Buy an investment</option>
-              <option>Refinance</option>
-              <option>Buy another home</option>
-              <option>Other</option>
+              <optgroup label="Home loans">
+                <option>Buy my first home</option>
+                <option>Build my first home</option>
+                <option>Buy an investment</option>
+                <option>Refinance</option>
+                <option>Buy another home</option>
+              </optgroup>
+              <optgroup label="Other finance">
+                <option>Vehicle loan</option>
+                <option>Business loan</option>
+                <option>Personal loan</option>
+                <option>Other</option>
+              </optgroup>
             </select>
           </div>
           <div class="full">
@@ -66,7 +74,7 @@ include __DIR__ . '/includes/header.php';
       <div class="form__step" id="step2" hidden>
         <div class="form__grid">
           <div class="full">
-            <label for="state">Where are you looking to buy?</label>
+            <label for="state">Which state are you in?</label>
             <select id="state" name="state">
               <option>SA</option><option>VIC</option><option>NSW</option><option>QLD</option>
               <option>WA</option><option>TAS</option><option>ACT</option><option>NT</option>
@@ -74,7 +82,7 @@ include __DIR__ . '/includes/header.php';
             </select>
           </div>
           <div>
-            <label for="deposit">Approximate deposit <span class="opt">(optional)</span></label>
+            <label for="deposit">Deposit or savings <span class="opt">(optional)</span></label>
             <select id="deposit" name="deposit">
               <option>Not sure</option>
               <option>Under $10,000</option>
@@ -122,7 +130,7 @@ include __DIR__ . '/includes/header.php';
   <div class="wrap langband__in">
     <div>
       <h2>Prefer Sinhala or Tamil?</h2>
-      <p>Just say so when you book. A home loan is the largest commitment most people ever make, and it's worth having that conversation in the language you think in.</p>
+      <p>Just say so when you book. A home loan is the largest commitment most people ever make, and it's worth having that conversation in the language you think in. Loan documents are in English, but we can talk them through in whichever language suits.</p>
     </div>
     <div class="langband__scripts scr">
       &#3523;&#3538;&#3458;&#3524;&#3517;&#3545;&#3505;&#3530; &#3482;&#3501;&#3535; &#3482;&#3515;&#3512;&#3540;<br>
